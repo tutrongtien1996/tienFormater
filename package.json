@@ -1,0 +1,24 @@
+{
+  "name": "tienformater",
+  "version": "1.0.0",
+  "description": "Format currency, date, Vietnamese date",
+  "main": "tienformater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutrongtien1996/tienFormater.git"
+  },
+  "keywords": [
+    "format",
+    "currency",
+    "date"
+  ],
+  "author": "tien.tt",
+  "license": "NIT",
+  "bugs": {
+    "url": "https://github.com/tutrongtien1996/tienFormater/issues"
+  },
+  "homepage": "https://github.com/tutrongtien1996/tienFormater#readme"
+}
